@@ -19,7 +19,7 @@ mode        : selfcontained # {standalone, draft}
 
 - Slidify was created by [Ramnath Vaidyanathan](https://github.com/ramnathv) in order to streamline the process of creating and publishing `R` driven presentations.
 
-- Slidify is an almagamation of other technologies including knitr, Markdown, and several javascript libaries for HTML5 presentations.
+- Slidify is an amalgamation of other technologies including knitr, Markdown, and several javascript libaries for HTML5 presentations.
 
 - Slidify is infinitely extendable and customizable, yet it is easy to use!
 
@@ -85,7 +85,7 @@ author("first_deck")
 
 ## Getting to know `index.Rmd` : `YAML`
 
-- `index.Rmd` is the R Markdown document which you will use to compose the content of your presentation.
+- `index.Rmd` is the R Markdown document which you will use to compose the conent of your presentation.
 - The first part of an `index.Rmd` file is a bit of `YAML` code which will look like this:
 
 ```YAML
